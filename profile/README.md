@@ -1,6 +1,6 @@
 # Blackbird-JS
 
-**High-Performance, Fine-Grained, Local-First Open-Source Frontend Infrastructure.**
+**High-Performance, Fine-Grained, Local-First Open-Source Frontend Framework.**
 
 Welcome to the official repository hub for the **Blackbird-JS** ecosystem. We engineer lightweight developer tooling, reactive state systems, and asynchronous browser engines powered entirely by native web standards—giving you a modern framework experience without the framework bloat.
 
